@@ -1,5 +1,5 @@
 __NOTOC__
-<big>'''ᐙᒋᔮᒄ''' ᐅᑖ [[ᐎᑭᐱᑎᔭ]]᙮</big>
+<big style="font-family:'Aboriginal Sans', Code2000;">'''ᐙᒋᔮᒄ''' ᐅᑖ [[ᐎᑭᐱᑎᔭ]]᙮</big>
 
 At the moment there are [[Special:Statistics|{{NUMBEROFARTICLES}}]] articles.
 
@@ -11,10 +11,12 @@ At the moment there are [[Special:Statistics|{{NUMBEROFARTICLES}}]] articles.
 * [http://www.creeculture.ca/images/content/syllabics.gif Full Syllabics Chart]
 
 == Articles in Syllabic script ==
-*[[ᐎᑭᐱᑎᔭ]]
+<span 
+*[[ᐎᑭᐱᑎᔭ]] style="font-family:'Aboriginal Sans', Code2000;">
 *[[ᐃᔨᔫ ᐊᔨᒧᐎᓐ]]
 *[[ᓂᔭ]]
 *[[ᓃᐲᔾ]]
+</span>
 
 == Articles in Roman script ==
 *[[Wapahke]]
