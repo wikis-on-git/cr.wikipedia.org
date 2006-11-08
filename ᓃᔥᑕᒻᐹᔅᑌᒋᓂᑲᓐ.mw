@@ -15,33 +15,33 @@ font-size: 33px;">'''ᐙᒋᔮᒄ ᐅᑖ [[ᐎᑭᐱᑎᔭ]]'''</div><div style=
 
 | style="width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF" |
 <div style="background-color:#A8D3FF; font-size:1px; height:8px; border-bottom:1px solid #8898BF;"></div>
-<div style="float:right; margin:5px; margin-top:5px">{{klik | Grafika = Exquisite-khelpcenter.png | Wysokość = 48px | Szerokość = 48px | Link = Szablon:Czy wiesz}}</div>
+<div style="float:right; margin:5px; margin-top:5px"></div>
 <div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">ᓂᐦᑖᐅᒋᐦᒋᑲᓇᓐ</div>
 <div style="font-size:9pt; padding:5px">{{Czy wiesz}}</div>
 |-
 <!--------------------------------------------->
 | style="width: 50%; vertical-align: top; border:1px solid #FFBC79; background-color: #FFFFFF" |
 <div style="background-color:#FFE9D2; font-size:1px; height:8px; border-bottom:1px solid #FFBC79;"></div>
-<div style="float:right; margin:6px;">{{klik | Grafika = Noia 64 apps date pl.png | Wysokość = 50px | Szerokość = 50px | Link = {{CURRENTDAY}} {{CURRENTMONTHNAMEGEN}}}}</div>
+<div style="float:right; margin:6px;"></div>
 <div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">ᐄᔨᔫᐧᐊᒃ</div>
 <div style="font-size:9pt; padding:5px">{{Rocznice {{CURRENTDAY}} {{CURRENTMONTHNAMEGEN}}}}</div>
 
 | style="width: 50%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF" |
 <div style="background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;"></div>
-<div style="float:right; margin:5px; margin-right:9px; padding-bottom:12px">{{klik | Grafika = Wikimedal.png | Wysokość = 52px | Szerokość = 32px | Link = Wikipedia:Artykuły na medal}}</div>
+<div style="float:right; margin:5px; margin-right:9px; padding-bottom:12px"></div>
 <div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">ᐅᑌᓈᐅᐊᓐ</div>
 <div style="font-size:9pt; padding:5px">{{Artykuł na medal}}</div>
 |-
 <!-------------------------------------------->
 | style="width: 50%; vertical-align: top; border:1px solid #FFBC79; background-color: #FFFFFF" |
 <div style="background-color:#FFE9D2; font-size:1px; height:8px; border-bottom:1px solid #FFBC79;"></div>
-<div style="float:right; margin:5px; margin-right:8px">{{klik | Grafika = Nuvola apps bookcase.png | Wysokość = 50px | Szerokość = 50px | Link = Portal:Portale}}</div>
+<div style="float:right; margin:5px; margin-right:8px"></div>
 <div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Portale</div>
 <div style="font-size:9pt; padding:5px">{{WikiportaleSG}}</div>
 
 | style="width: 50%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF" |
 <div style="background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;"></div>
-<div style="float:right; margin:5px; margin-bottom:0px">{{klik | Grafika = Nuvola apps kcoloredit.png | Wysokość = 50px | Szerokość = 50px | Link = Wikipedia:Grafika na medal}}</div>
+<div style="float:right; margin:5px; margin-bottom:0px"></div>
 <div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Grafika na medal</div><br>
 <div style="font-size:9pt; padding:5px">{{Zdjęcie tyg}}</div>
 |-
