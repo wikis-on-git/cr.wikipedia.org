@@ -4,6 +4,58 @@ __NOTOC__
 font-size: 18px;">'''ᐙᒋᔮᒄ ᐅᑖ [[ᐎᑭᐱᑎᔭ]]'''</div><div style="margin:0px 0px 0px 3%;text-align:center; font-size:94%"><span style="font-size:115%;">'''''</span> 
 |}
 
+{{kategorie1}}
+<!-------Tabela------------------------------------------------------>
+{| style="border: 0; background-color: #ffffff" cellpadding="0" cellspacing="10"
+| style="width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF" |
+<div style="background-color:#A8D3FF; font-size:1px; height:8px; border-bottom:1px solid #8898BF;"></div>
+<div style="float:right; margin:8px; margin-top:5px">{{klik | Grafika = Crystal 128 wp.png | Wysokość = 48px | Szerokość = 48px | Link = Bieżące wydarzenia}}</div>
+<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Aktualności</div>
+<div style="font-size:9pt; padding:5px">{{Wiadomości}}</div>
+
+| style="width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF" |
+<div style="background-color:#A8D3FF; font-size:1px; height:8px; border-bottom:1px solid #8898BF;"></div>
+<div style="float:right; margin:5px; margin-top:5px">{{klik | Grafika = Exquisite-khelpcenter.png | Wysokość = 48px | Szerokość = 48px | Link = Szablon:Czy wiesz}}</div>
+<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Czy wiesz, że...</div>
+<div style="font-size:9pt; padding:5px">{{Czy wiesz}}</div>
+|-
+<!--------------------------------------------->
+| style="width: 50%; vertical-align: top; border:1px solid #FFBC79; background-color: #FFFFFF" |
+<div style="background-color:#FFE9D2; font-size:1px; height:8px; border-bottom:1px solid #FFBC79;"></div>
+<div style="float:right; margin:6px;">{{klik | Grafika = Noia 64 apps date pl.png | Wysokość = 50px | Szerokość = 50px | Link = {{CURRENTDAY}} {{CURRENTMONTHNAMEGEN}}}}</div>
+<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Wybrane rocznice</div>
+<div style="font-size:9pt; padding:5px">{{Rocznice {{CURRENTDAY}} {{CURRENTMONTHNAMEGEN}}}}</div>
+
+| style="width: 50%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF" |
+<div style="background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;"></div>
+<div style="float:right; margin:5px; margin-right:9px; padding-bottom:12px">{{klik | Grafika = Wikimedal.png | Wysokość = 52px | Szerokość = 32px | Link = Wikipedia:Artykuły na medal}}</div>
+<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Artykuł na medal</div>
+<div style="font-size:9pt; padding:5px">{{Artykuł na medal}}</div>
+|-
+<!-------------------------------------------->
+| style="width: 50%; vertical-align: top; border:1px solid #FFBC79; background-color: #FFFFFF" |
+<div style="background-color:#FFE9D2; font-size:1px; height:8px; border-bottom:1px solid #FFBC79;"></div>
+<div style="float:right; margin:5px; margin-right:8px">{{klik | Grafika = Nuvola apps bookcase.png | Wysokość = 50px | Szerokość = 50px | Link = Portal:Portale}}</div>
+<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Portale</div>
+<div style="font-size:9pt; padding:5px">{{WikiportaleSG}}</div>
+
+| style="width: 50%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF" |
+<div style="background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;"></div>
+<div style="float:right; margin:5px; margin-bottom:0px">{{klik | Grafika = Nuvola apps kcoloredit.png | Wysokość = 50px | Szerokość = 50px | Link = Wikipedia:Grafika na medal}}</div>
+<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Grafika na medal</div><br>
+<div style="font-size:9pt; padding:5px">{{Zdjęcie tyg}}</div>
+|-
+<!-------Dół---------------------------------->
+| colspan="2" style="border:1px solid #aaa; background-color: white;" |
+<div style="background-color:#E0E0E0; font-size:1px; height:8px; border-bottom:1px solid #aaa;"></div>
+{{Siostrzane}}
+|}
+
+__NOTOC__
+__NOEDITSECTION__
+{{Interwiki}}
+
+
 <big style="font-family: Kisiska, 'Aboriginal Sans', Code2000;">'''ᐙᒋᔮᒄ''' ᐅᑖ [[ᐎᑭᐱᑎᔭ]]᙮</big>
 
 At the moment there are [[Special:Statistics|{{NUMBEROFARTICLES}}]] articles.
