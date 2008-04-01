@@ -1,6 +1,12 @@
 __NOTOC__
 {| border="0" width="100%" style="margin-bottom:-30px"
 | <div style="margin: 10px 10px 10px 3%; text-align: center; 
+font-size: 33px;">''<font color="blue">Tâwâw</div><div style="margin:10px 10px 10px 3%;text-align:center; font-size:100%"><span style="font-size:115%;">'''''</span> 
+|}
+
+__NOTOC__
+{| border="0" width="100%" style="margin-bottom:-30px"
+| <div style="margin: 10px 10px 10px 3%; text-align: center; 
 font-size: 33px;">''<font color="blue">ᓀᐦᐃᔭᐧᐁᒧᐧᐃᓐ ᐧᐃᑭᐱᑎᔭ ᐄᔨᔫᔥᑌᐤ Uikuepitiu innushteu'''</div><div style="margin:10px 10px 10px 3%;text-align:center; font-size:100%"><span style="font-size:115%;">'''''[[Special:Statistics|{{NUMBEROFARTICLES}}]] ᐹᔅᑌᒋᓂᑲᓇᓐ</span> 
 |}
 
@@ -23,16 +29,17 @@ font-size: 33px;">''<font color="blue">ᓀᐦᐃᔭᐧᐁᒧᐧᐃᓐ ᐧᐃᑭ�
 | style="width: 50%; vertical-align: top; border:1px solid #FFBC79; background-color: #FFFFFF" |
 <div style="background-color:#FFE9D2; font-size:1px; height:8px; border-bottom:1px solid #FFBC79;"></div>
 <div style="float:right; margin:6px;"></div>
-<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">ᐄᔨᔫᐧᐊᒃ</div>
-<div style="font-size:9pt; padding:5px">{{ᐄᔨᔫᐧᐊᒃ}}</div>
+<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">ᐄᔨᔫᐧᐊᒃ/ᐅᑌᓈᐅᐊᓐ</div>
+<div style="font-size:9pt; padding:5px">{{ᐄᔨᔫᐧᐊᒃ}}</div><div style="font-size:9pt; padding:5px">{{Artykuł na medal}}</div>
 
 | style="width: 50%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF" |
 <div style="background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;"></div>
 <div style="float:right; margin:5px; margin-right:9px; padding-bottom:12px"></div>
-<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">ᐅᑌᓈᐅᐊᓐ</div>
-<div style="font-size:9pt; padding:5px">{{Artykuł na medal}}</div>
+<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Articles in SRO (Standard Roman Orthography</div>
+<div style="font-size:9pt; padding:5px">{{RSO}}</div>
 |-
 <!-------------------------------------------->
+
 | style="width: 50%; vertical-align: top; border:1px solid #FFBC79; background-color: #FFFFFF" |
 <div style="background-color:#FFE9D2; font-size:1px; height:8px; border-bottom:1px solid #FFBC79;"></div>
 <div style="float:right; margin:5px; margin-right:8px"></div>
@@ -65,11 +72,6 @@ __NOEDITSECTION__
 *[[ᓂᔭ]]
 *[[ᓃᐲᔾ]]
 </span>
-
-== Articles in Roman script ==
-*[[Wapahke]]
-*[[Sákahikan]]
-
 
 == Articles to be deleted ==
 *[[Country]]
