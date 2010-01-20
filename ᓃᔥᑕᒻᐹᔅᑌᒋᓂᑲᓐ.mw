@@ -17,13 +17,13 @@ font-size: 33px;">''<font color="blue">ᓀᐦᐃᔭᐧᐁᒧᐧᐃᓐ ᐧᐃᑭ�
 <div style="background-color:#A8D3FF; font-size:1px; height:8px; border-bottom:1px solid #8898BF;"></div>
 <div style="float:right; margin:8px; margin-top:5px"></div>
 <div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">ᐊᐧᐁᓰᔅᐊᒃ</div>
-<div style="font-size:9pt; padding:5px">{{Wiadomości}}</div>
+<div style="font-size:9pt; padding:5px">{{ᐊᐧᐁᓰᔅᐊᒃ}}</div>
 
 | style="width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF" |
 <div style="background-color:#A8D3FF; font-size:1px; height:8px; border-bottom:1px solid #8898BF;"></div>
 <div style="float:right; margin:5px; margin-top:5px"></div>
 <div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">ᓂᐦᑖᐅᒋᐦᒋᑲᓇᓐ</div>
-<div style="font-size:9pt; padding:5px">{{Czy wiesz}}</div>
+<div style="font-size:9pt; padding:5px">{{ᓂᐦᑖᐅᒋᐦᒋᑲᓇᓐ}}</div>
 |-
 <!--------------------------------------------->
 | style="width: 50%; vertical-align: top; border:1px solid #FFBC79; background-color: #FFFFFF" |
