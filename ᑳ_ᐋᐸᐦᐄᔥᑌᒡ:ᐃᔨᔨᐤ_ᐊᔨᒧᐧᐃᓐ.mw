@@ -20,7 +20,7 @@ This is the Iyiyiw-Ayimuwin section of the Cree Wikipedia. To create a new artic
  type      = create
  width     = 40
  bgcolor   = #ffffff
- buttonlabel= Créer un nouveal article
+ buttonlabel= Create a new article
  preload   = Template:Iyiyiw-Ayimuwin article template
  editintro = Template:Instructions
  default   = 
