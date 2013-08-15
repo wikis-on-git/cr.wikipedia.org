@@ -14,7 +14,7 @@ __NOEDITSECTION__
 <div style="color:blue; text-align:center; font-weight:bold; font-size:120%;">&nbsp; Good articles</div> </div>
 |- valign="top" style="background-color:#FFF;"
 | valign="top" width="50%" style="border:1px solid #999999;"| 
-This is the Iyiyiw-Ayimuwin section of the Cree Wikipedia. To create a new article, insert its title in the box below.
+This is the Iyyû-Ayimuwin section of the Cree Wikipedia. To create a new article, insert its title in the box below.
 
 <inputbox>
  type      = create
@@ -22,7 +22,7 @@ This is the Iyiyiw-Ayimuwin section of the Cree Wikipedia. To create a new artic
  bgcolor   = #ffffff
  buttonlabel= Create a new article
  placeholder= Write the title of your article here in Iyiyiw-Ayimuwin
- preload   = Template:Iyiyiw-Ayimuwin article template
+ preload   = Template:Iyyû-Ayimuwin article template
  editintro = Template:Instructions
  default   = 
 </inputbox>
