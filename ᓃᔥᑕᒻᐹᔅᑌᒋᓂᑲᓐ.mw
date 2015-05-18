@@ -1,129 +1,70 @@
-
-{| style="border:1px solid #aaa; vertical-align:top; width:100%; background-color:#E54BF3; margin-top:5px; margin-bottom:0px; padding:0.5px 0.5px 0.5px 0.5px; -moz-border-radius:2px;"
-| <div style="margin-bottom:0px; padding:.5em; background:#fff; border:1px solid #AAA">
-<center><br/><div style="letter-spacing:3px; font-size:135%"><font color="red">Please translate the interface.</div></font>
-</div>
-|}
-{| style="border:1px solid #aaa; vertical-align:top; width:100%; background-color:#E54BF3; margin-top:5px; margin-bottom:0px; padding:0.5px 0.5px 0.5px 0.5px; -moz-border-radius:2px;"
-| <div style="margin-bottom:0px; padding:.5em; background:#fff; border:1px solid #AAA">
-<center><br/><div style="letter-spacing:3px; font-size:135%"><font color="red">ᐧᐋᒋᔦ - wâciyê<br/><br/>ᐗᑭᐱᑎᔭ<br/><br/></div></font>
-<span style="font-size:115%;">[[Special:Statistics|{{NUMBEROFARTICLES}}]] [[Special:AllPages|ᐹᔅᑌᒋᓂᑲᓇᓐ]]</span> 
-</div>
+__NOTOC__
+{| border="0" width="100%" style="margin-bottom:-30px"
+| <div style="margin: 10px 10px 10px 3%; text-align: center; 
+font-size: 33px;">''<font color="blue">Tâwâw</div><div style="margin:10px 10px 10px 3%;text-align:center; font-size:100%"><span style="font-size:115%;">'''''</span> 
 |}
 
-{| width="100%" align="center" style="border: 1px solid #aaa; background-color:#E4EBF3; margin-left:0 ; margin-right:0; margin-top:1em; margin-bottom:0px; padding:0.5px 0.5px 0.5px 0.5px;" cellspacing="4"
-|- valign="top"
-!width="50%" |<div class="degrade" style="margin-top:0px; margin-bottom:3px; padding:.2em; border:1px solid #aaa; background-color:#A0B4D3; -moz-border-radius:10px">
-<div style="color:blue; text-align:center; font-weight:regular; font-size:120%;">&nbsp;[[Portal:ᐃᔪᐤ ᐃᔨᒧᐅᓐ|ᐃᔪᐤ ᐃᔨᒧᐅᓐ - Iyuw-Iyimuun]]</div> </div>
-!width="50%" |<div class="degrade" style="margin-top:0px; margin-bottom:3px; padding:.2em; border:1px solid #aaa; background-color:#A0B4D3; -moz-border-radius:10px">
-<div style="color:blue; text-align:center; font-weight:regular; font-size:120%;">&nbsp;[[Portal:Innu-Aimûn|Innu-Aimûn]]</div> </div>
-|- valign="top" style="background-color:#FFF;"
-| valign="top" width="50%" style="border:1px solid #999999;"| 
-ᐃᔪᐤ ᐃᔨᒧᐅᓐ Portal: [[Portal:ᐃᔪᐤ ᐃᔨᒧᐅᓐ]]<br/>
-English and French name: ''Naskapi'' (ISO 639 : [http://www.sil.org/iso639-3/documentation.asp?id=nsk nsk])<br/>
-Location: Québec and Labrador<br/>
-Communities: [[Kawawachikamach]] and [[Natuashish]]<br/>
-Some articles in Iyuw Iyimuun (Kawawachikamach dialect):
-* List of articles...
-Some articles in Iyuw Iyimuun (Natuashish dialect):
-* List of articles...
-| valign="top" width="50%" style="border:1px solid #999999;"| 
-Innu-Aimûn Portal: [[Portal:Innu-Aimûn]]<br/>
-English and French name: ''Montagnais'' (ISO 639: [http://www.sil.org/iso639-3/documentation.asp?id=moe moe])<br/>
-Location: Québec and Labrador<br/>
-Communities:
-* Nehlueun (Eastern dialect): [[La Romaine]], [[Mingan]], [[Natashquan]], [[Pakuashipi]] and [[Sheshatshiu]]
-* Lehlueun (Western dialect): [[Betsiamites]], [[Mashteuiatsh]], [[Matimekosh]] and [[Uashat-Maliotenam]]
-Some articles in Nehlueun (Eastern dialect):
-* List of articles...
-Some articles in Lehlueun (Western dialect):
-* List of articles...
-|- valign="top"
-!width="50%" |<div class="degrade" style="margin-top:0px; margin-bottom:3px; padding:.2em; border:1px solid #aaa; background-color:#A0B4D3; -moz-border-radius:10px">
-<div style="color:blue; text-align:center; font-weight:bold; font-size:120%;">&nbsp;[[Portal:Atikamekw|Atikamekw]]</div> </div>
-!width="50%" |<div class="degrade" style="margin-top:0px; margin-bottom:3px; padding:.2em; border:1px solid #aaa; background-color:#A0B4D3; -moz-border-radius:10px">
-<div style="color:blue; text-align:center; font-weight:bold; font-size:120%;">&nbsp;[[Portal:Ililîmowin|Ililîmowin]]</div> </div>
-|- valign="top" style="background-color:#FFF;"
-| valign="top" width="50%" style="border:1px solid #999999;"| 
-Portail atikamekw : [[Portal:Atikamekw]]<br/>
-Nom en français et en anglais : ''Atikamekw'' (ISO 639: [http://www.sil.org/iso639-3/documentation.asp?id=atj atj])<br/>
-Emplacement : Québec<br/>
-Communautés : [[Manawan]], [[Opitciwan]] and [[Wemotaci]]<br/>
-Quelques articles écrits en atikamekw :
-* [[Amiskw]]
-* [[E nta pakitohaniwok]]
-* [[Eva Ottawa]]
-* [[Manawan]]
-* [[Mos]]
-* [[Wikwas]]
-| valign="top" width="50%" style="border:1px solid #999999;"| 
-Ililîmowin Portal: [[Portal:Ililîmowin]]<br/>
-English name: ''Moose Cree'' (ISO 639: [http://www.sil.org/iso639-3/documentation.asp?id=crm crm])<br/>
-Location: Ontario<br/>
-Communities: [[Moose Factory]] and [[Moosonee]]<br/>
-Some articles in Ililîmowin:
-* List of articles...
-|- valign="top"
-!width="50%" |<div class="degrade" style="margin-top:0px; margin-bottom:3px; padding:.2em; border:1px solid #aaa; background-color:#A0B4D3; -moz-border-radius:10px">
-<div style="color:blue; text-align:center; font-weight:bold; font-size:120%;">&nbsp;[[ᑳ ᐋᐸᐦᐄᔥᑌᒡ:ᐃᔨᔨᐤ ᐊᔨᒧᐧᐃᓐ|ᐃᔨᔨᐤ ᐊᔨᒧᐧᐃᓐ - Iyyû-Ayimuwin]]</div> </div>
-!width="50%" |<div class="degrade" style="margin-top:0px; margin-bottom:3px; padding:.2em; border:1px solid #aaa; background-color:#A0B4D3; -moz-border-radius:10px">
-<div style="color:blue; text-align:center; font-weight:bold; font-size:120%;">&nbsp;[[Portal:ᓀᐦᐃᔭᐍᐏᐣ|ᓀᐦᐃᔭᐍᐏᐣ - Nēhiyawēwin]]</div> </div>
-|- valign="top" style="background-color:#FFF;"
-| valign="top" width="50%" style="border:1px solid #999999;"| 
-[[ᑳ ᐋᐸᐦᐄᔥᑌᒡ:ᐃᔨᔨᐤ ᐊᔨᒧᐧᐃᓐ|ᐃᔨᔨᐤ ᐊᔨᒧᐧᐃᓐ ᑳ ᐋᐸᐦᐄᔥᑌᒡ]]<br/>
-English name: ''East Cree'' or ''James Bay Cree'' (ISO 639: [http://www.sil.org/iso639-3/documentation.asp?id=crl crl] and [http://www.sil.org/iso639-3/documentation.asp?id=crj crj])<br/>
-Location: Québec<br/>
-Communities:<br/>
-* Iyyû-Ayimuwin (Northern dialect): [[Chisasibi]], [[Eastmain]], [[Waskaganish]], [[Wemindji]] and [[Whapmagoostui]]
-* Iynû-Ayimuwin (Southern dialect): [[Eastmain]], [[Mistissini]], [[Nemaska]], [[Oujé-Bougoumou]] and [[Waswanipi]]<br/>
-Some articles in Iyyû-Ayimuwin
-* [[ᐊᑎᒽ]]
-* ...
-* [[ᐅᓕᖑᐅᑭᕿᓴ]]
-| valign="top" width="50%" style="border:1px solid #999999;"| 
-ᓀᐦᐃᔭᐍᐏᐣ Portal: [[Portal:ᓀᐦᐃᔭᐍᐏᐣ]]<br/>
-English name: ''Plains Cree'' (ISO 639: [http://www.sil.org/iso639-3/documentation.asp?id=crk crk])<br/>
-Location: Saskatchewan, Alberta, British Columbia, Northwest Territories and Montana<br/>
-Some articles in nēhiyawēwin:
-* [[âpihtâkosisânak]]
-* [[kâ-isiwepahki]]
-* [[maskisin]]
-* [[pahkwêsikan]]
-* [[pimîhkân]]
-* [[tipahikan]]
-|- valign="top"
-!width="50%" |<div class="degrade" style="margin-top:0px; margin-bottom:3px; padding:.2em; border:1px solid #aaa; background-color:#A0B4D3; -moz-border-radius:10px">
-<div style="color:blue; text-align:center; font-weight:bold; font-size:120%;">&nbsp;[[Portal:Nēhinawēwin|Nēhinawēwin]]</div> </div>
-!width="50%" |<div class="degrade" style="margin-top:0px; margin-bottom:3px; padding:.2em; border:1px solid #aaa; background-color:#A0B4D3; -moz-border-radius:10px">
-<div style="color:blue; text-align:center; font-weight:bold; font-size:120%;">&nbsp;[[Portal:Nīhithawīwin|Nīhithawīwin]]</div> </div>
-|- valign="top" style="background-color:#FFF;"
-| valign="top" width="50%" style="border:1px solid #999999;"| 
-Nēhinawēwin Portal: [[Portal:Nēhinawēwin]]<br/>
-English name: ''Swampy Cree'' (ISO 639: [http://www.sil.org/iso639-3/documentation.asp?id=csw csw])<br/>
-Location: Northern Ontario, Manitoba and Saskatchewan<br/>
-Some articles in Ininīmowin (Western dialect):
-* List of articles...
-Some articles in Ininiwi-Išikišwēwin (Eastern dialect):
-* List of articles...
-| valign="top" width="50%" style="border:1px solid #999999;"| 
-Nīhithawīwin Portal: [[Portal:Nīhithawīwin]]<br/>
-English name: ''Woods Cree'' (ISO 639: [http://www.sil.org/iso639-3/documentation.asp?id=cwd cwd])<br/>
-Location: Manitoba and Saskatchewan<br/>
-Some articles in Nīhithawīwin:
-* List of articles...
+__NOTOC__
+{| border="0" width="100%" style="margin-bottom:-30px"
+| <div style="margin: 10px 10px 10px 3%; text-align: center; 
+font-size: 33px;">''<font color="blue">ᓀᐦᐃᔭᐧᐁᒧᐧᐃᓐ ᐧᐃᑭᐱᑎᔭ ᐄᔨᔫᔥᑌᐤ Uikuepitiu innushteu'''</div><div style="margin:10px 10px 10px 3%;text-align:center; font-size:100%"><span style="font-size:115%;">[[Special:Statistics|{{NUMBEROFARTICLES}}]] [[Special:AllPages|ᐹᔅᑌᒋᓂᑲᓇᓐ]]</span> 
 |}
 
+
+<!-------Tabela------------------------------------------------------>
+{| style="border: 0; background-color: #ffffff" cellpadding="0" cellspacing="10"
+| style="width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF" |
+<div style="background-color:#A8D3FF; font-size:1px; height:8px; border-bottom:1px solid #8898BF;"></div>
+<div style="float:right; margin:8px; margin-top:5px"></div>
+<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">ᐊᐧᐁᓰᔅᐊᒃ</div>
+<div style="font-size:9pt; padding:5px">{{ᐊᐧᐁᓰᔅᐊᒃ}}</div>
+
+| style="width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF" |
+<div style="background-color:#A8D3FF; font-size:1px; height:8px; border-bottom:1px solid #8898BF;"></div>
+<div style="float:right; margin:5px; margin-top:5px"></div>
+<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">ᓂᐦᑖᐅᒋᐦᒋᑲᓇᓐ</div>
+<div style="font-size:9pt; padding:5px">{{ᓂᐦᑖᐅᒋᐦᒋᑲᓇᓐ}}</div>
+|-
+<!--------------------------------------------->
+| style="width: 50%; vertical-align: top; border:1px solid #FFBC79; background-color: #FFFFFF" |
+<div style="background-color:#FFE9D2; font-size:1px; height:8px; border-bottom:1px solid #FFBC79;"></div>
+<div style="float:right; margin:6px;"></div>
+<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Featured articles written in Syllabic script</div>
+<div style="font-size:9pt; padding:5px">{{Featured articles in syllabic script}}</div>
+
+| style="width: 50%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF" |
+<div style="background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;"></div>
+<div style="float:right; margin:5px; margin-right:9px; padding-bottom:12px"></div>
+<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Featured articles written in SRO (Standard Roman Orthography)</div>
+<div style="font-size:9pt; padding:5px">{{RSO}}</div>
+|-
+<!-------------------------------------------->
+
+| style="width: 50%; vertical-align: top; border:1px solid #FFBC79; background-color: #FFFFFF" |
+<div style="background-color:#FFE9D2; font-size:1px; height:8px; border-bottom:1px solid #FFBC79;"></div>
+<div style="float:right; margin:5px; margin-right:8px"></div>
+<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Random picture</div>
+<div style="font-size:9pt; padding:5px">{{Random pictures}}</div>
+
+| style="width: 50%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF" |
+<div style="background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;"></div>
+<div style="float:right; margin:5px; margin-bottom:0px"></div>
+<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">ᐧᐁᒥᔥᑎᑯᔒᐅᔥᑌᐤ (English language)</div><br>
+<div style="font-size:9pt; padding:5px">{{Zdjęcie tyg}}</div>
+|-
+<!-------Dół---------------------------------->
+| colspan="2" style="border:1px solid #aaa; background-color: white;" |
+<div style="background-color:#E0E0E0; font-size:1px; height:8px; border-bottom:1px solid #aaa;"></div>
+|}
 
 __NOTOC__
 __NOEDITSECTION__
 
 == Wikipedias in other Native American languages ==
 
-[[:gn:|Avañe'ẽ]]&nbsp;· [[:ay:|Aymar]]&nbsp;· [[:cho:|Choctaw]]&nbsp;· [[:chr:|ᏣᎳᎩ (Cherokee)]]&nbsp;· [[:nv:|Diné bizaad (Navajo)]]&nbsp;· [[:iu:|Inuktitut/ᐃᓄᒃᑎᑐᑦ]]&nbsp;· [[:ik:|Inupiatun/Iñupiaq]]&nbsp;· [[:kl:|Kalaallisut]]&nbsp;· [[:mus:|Mvskoke (Creek)]]&nbsp;· [[:nah:|Nāhuatl]]&nbsp;·  [[:qu:|Runa simi (Quechua)]]&nbsp;· [[:chy:|Tsêhesenêstsestôtse (Cheyenne)]]&nbsp;
+[[:gn:|Avañe'ẽ]]&nbsp;· [[:ay:|Aymar]]&nbsp;· [[:cho:|Choctaw]]&nbsp;· [[:chr:|ᏣᎳᎩ (Cherokee)]]&nbsp;· [[:nv:|Diné bizaad (Navajo)]]&nbsp;· [[:iu:|Inuktitut/ᐃᓄᒃᑎᑐᑦ]]&nbsp;· [[:ik:|Inupiatun/Iñupiaq]]&nbsp;· [[:kl:|Kalaallisut]]&nbsp;· [[:mus:|Mvskoke (Creek)]]&nbsp;· [[:nah:|Nāhuatl]]&nbsp;·  [[:qu:|Runa simi (Quechua)]]&nbsp;· [[:chy:|Tsêhesenêstsestôtse (Cheyenne)]]
 
-See also [[:en:|Wikipedia in English]] and [[:fr:|Wikipedia in French]].
-
-[[Category:ᐧᐃᑭᐱᑎᔭ|*]]
+See also [[:en:|Wikipedia in english]] and [[:fr:|Wikipedia in french]].
 
 [[aa:]]
 [[af:]]
@@ -139,7 +80,6 @@ See also [[:en:|Wikipedia in English]] and [[:fr:|Wikipedia in French]].
 [[frp:]]
 [[as:]]
 [[ast:]]
-[[sco:]]
 [[bug:]]
 [[gn:]]
 [[av:]]
@@ -226,7 +166,6 @@ See also [[:en:|Wikipedia in English]] and [[:fr:|Wikipedia in French]].
 [[iu:]]
 [[ik:]]
 [[os:]]
-[[ay:]]
 [[is:]]
 [[it:]]
 [[he:]]
@@ -323,6 +262,7 @@ See also [[:en:|Wikipedia in English]] and [[:fr:|Wikipedia in French]].
 [[sa:]]
 [[sg:]]
 [[sc:]]
+[[sco:]]
 [[stq:]]
 [[hsb:]]
 [[dsb:]]
@@ -350,7 +290,6 @@ See also [[:en:|Wikipedia in English]] and [[:fr:|Wikipedia in French]].
 [[roa-tara:]]
 [[tt:]]
 [[crh:]]
-[[ta:]]
 [[te:]]
 [[tet:]]
 [[th:]]
