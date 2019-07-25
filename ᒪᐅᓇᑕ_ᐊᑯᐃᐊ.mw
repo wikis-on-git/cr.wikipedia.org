@@ -1,0 +1,20 @@
+'''Monte Águila'''. <mapframe latitude="-37.0803" longitude="-72.4399" zoom="3" width="400" height="300" align="right">
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4399,
+          -37.0803
+        ]
+      }
+    }
+  ]
+}
+</mapframe>
+[[File:Inauguracion Nueva Plaza de Monte Aguila 2017 (12).jpg|thumb|431x431px]]
+<br />
