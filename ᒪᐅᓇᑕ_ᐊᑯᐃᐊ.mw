@@ -1,5 +1,14 @@
+{| class="wikitable sortable"
+|+
+! colspan="2" |'''ᒪᐅᓇᑕ_ᐊᑯᐃᐊ'''
+(ᐧᐁᒥᔥᑎᑯᔒᐤ ᐊᔨᒧᐧᐃᓐ: Mount Eagle)
 
-<mapframe latitude="-37.0803" longitude="-72.4399" zoom="3" width="400" height="300" align="right">
+(Spanish: Monte Águila)
+|-
+| colspan="2" |[[File:Inauguracion Nueva Plaza de Monte Aguila 2017 (12).jpg|center|frameless|270x270px]]
+|-
+|Map
+|<mapframe latitude="-37.0803" longitude="-72.4399" zoom="3" width="400" height="300" align="right">
 {
   "type": "FeatureCollection",
   "features": [
@@ -10,12 +19,26 @@
         "type": "Point",
         "coordinates": [
           -72.4399,
-          -37.0803
+          	-37.0803
         ]
       }
     }
   ]
 }
 </mapframe>
-[[File:Inauguracion Nueva Plaza de Monte Aguila 2017 (12).jpg|thumb|431x431px]]
-{{location}}<br />
+|-
+|Country
+|[[:en:Chile|Chile]]
+|-
+|Subdivision
+|[[:en:Biobío_Region|Bíobio Region]]
+|-
+|Population
+|6.090
+|-
+|Coordinates
+|37° 4′ 49.08″ S, 72° 26′ 23.64″ W
+|}
+
+
+<br />
